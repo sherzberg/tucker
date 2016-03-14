@@ -1,0 +1,19 @@
+---
+title: Thrive Movement Science
+layout: default
+modal-id: 2
+date: 2015-01-01
+client_slug: tms
+img: tms-logo.jpg
+alt: image-alt
+project-date: January 2015
+client: Thrive Movement Science
+category: Training
+description: Thrive Movement Science coach leading weekly sports performance classes and personal training sessions
+
+---
+
+[Website](http://thrivemovement.fit/)
+
+[Instagram](http://iconosquare.com/thrivemovementscience)
+
