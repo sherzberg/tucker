@@ -1,0 +1,15 @@
+---
+title: Charles H Flowers HS
+layout: default
+modal-id: 2
+date: 2015-01-01
+client_slug: chfhs
+img: chfhs-logo.gif
+alt: image-alt
+project-date: January 2015
+client: Charles Herber Flowers HS
+category: Training
+description: Training students at Charles Herbert Flowers HS
+
+---
+
