@@ -1,0 +1,22 @@
+---
+title: Lead 'Em Up
+layout: default
+modal-id: 4
+date: 2015-01-01
+client_slug: leu
+img: leu-logo.png
+alt: image-alt
+project-date: January 2015
+client: Lead 'Em Up
+category: Social Media
+description: Social Media Coordinator for the leadership company Lead 'Em Up
+
+---
+
+[Website](http://leademup.com/)
+
+[Twitter](https://twitter.com/lead_em_up)
+
+[Facebook](https://www.facebook.com/LeadEmUp)
+
+[Instagram](https://www.instagram.com/leademup/)
